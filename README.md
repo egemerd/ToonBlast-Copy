@@ -1,4 +1,4 @@
-# GJG Case Study: Collapse/Blast Mechanic
+# ToonBlast Copy: Collapse/Blast Mechanic
 
 This project was developed with a primary focus on **high-performance engineering**, specifically optimizing memory, CPU, and GPU usage to ensure a "healthy and efficient heart" for the gameplay experience.
 
